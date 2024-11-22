@@ -43,7 +43,8 @@ try:
     page_to_scrape.find_element(By.LINK_TEXT, "LP").click()
     time.sleep(5)
 
-    page_to_scrape.find_element(By.CLASS_NAME, "instancename").click()
+    link_element = page_to_scrape.find_element(By.XPATH, "//a[@https://cs.elfak.ni.ac.rs/nastava/mod/forum/view.php?id=879']")
+    link_element.click()
     time.sleep(5)
 
 
