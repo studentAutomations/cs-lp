@@ -40,13 +40,10 @@ try:
     page_to_scrape.find_element(By.ID, "idBtn_Back").click()
     time.sleep(5)
 
-    page_to_scrape.find_element(By.LINK_TEXT, "Baze").click()
+    page_to_scrape.find_element(By.LINK_TEXT, "LP").click()
     time.sleep(5)
 
     page_to_scrape.find_element(By.CLASS_NAME, "instancename").click()
-    time.sleep(5)
-
-    page_to_scrape.find_element(By.LINK_TEXT, "News forum").click()
     time.sleep(5)
 
 
