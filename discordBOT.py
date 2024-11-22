@@ -13,9 +13,9 @@ embed = Embed(
 image1 = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOmPtpzziqcXbG795QYLmYvJl6G6CcyKbKHA&s'
 image2 = 'https://github.com/studentAutomations/cs-lp/blob/main/cs-lp-nova-obavestenja.png'
 
-embed.set_author(name='CS Logicko Projektovanje')
-embed.add_field(name='Nova obaveštenja', value='https://cs.elfak.ni.ac.rs/nastava/')
-embed.add_field(name='Photo ==>', value=image2)
+embed.set_author(name='Nova obavestenja na CS-u')
+embed.add_field(name='Idi na sajt - ', value='https://cs.elfak.ni.ac.rs/nastava/')
+embed.add_field(name='Vidi obavestenja - ', value=image2)
 embed.set_footer(text='Elektronski Fakultet')
 embed.set_thumbnail(image1)
 
