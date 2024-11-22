@@ -43,7 +43,7 @@ try:
     page_to_scrape.find_element(By.LINK_TEXT, "LP").click()
     time.sleep(5)
 
-    page_to_scrape.find_element(By.LINK_TEXT, "Forum").click()
+    page_to_scrape.find_element(By.CLASS_NAME, "aalink").click()
     time.sleep(5)
 
 
