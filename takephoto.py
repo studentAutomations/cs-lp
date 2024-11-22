@@ -47,7 +47,7 @@ try:
     time.sleep(30)
 
 
-    responseT = page_to_scrape.find_element(By.CLASS_NAME, "table")
+    responseT = page_to_scrape.find_element(By.ID, "region-main")
     responseT.screenshot('cs-lp-nova-obavestenja.png')
 
 finally:
