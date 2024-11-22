@@ -51,7 +51,7 @@ try:
 
 
     responseT = page_to_scrape.find_element(By.CLASS_NAME, "discussion-list")
-    responseT.screenshot('cs-baze-nova-obavestenja.png')
+    responseT.screenshot('cs-lp-nova-obavestenja.png')
 
 finally:
     # Clean up by quitting the driver
