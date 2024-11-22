@@ -47,7 +47,7 @@ try:
     time.sleep(30)
 
 
-    responseT = page_to_scrape.find_element(By.CLASS_NAME, "table.discussion-list")
+    responseT = page_to_scrape.find_element(By.CLASS_NAME, "table")
     responseT.screenshot('cs-lp-nova-obavestenja.png')
 
 finally:
