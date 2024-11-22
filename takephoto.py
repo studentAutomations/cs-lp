@@ -47,7 +47,16 @@ try:
     time.sleep(30)
 
 
-    responseT = page_to_scrape.find_element(By.ID, "region-main")
+    responseT = page_to_scrape.find_element(By.CLASS_NAME, "table.discussion-list")
+
+    # Get the size of the element and set window size accordingly
+    height = responseT.size['height']
+    width = responseT.size['width']
+
+    # Set a larger window size (you can adjust these values as needed)
+    page_to_scrape.set_window_size(width + 100, height + 100)  # Adding some extra space
+
+    # Take a screenshot of the entire element
     responseT.screenshot('cs-lp-nova-obavestenja.png')
 
 finally:
