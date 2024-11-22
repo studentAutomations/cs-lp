@@ -11,7 +11,7 @@ embed = Embed(
 )
 
 image1 = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOmPtpzziqcXbG795QYLmYvJl6G6CcyKbKHA&s'
-image2 = 'https://github.com/studentAutomations/cs-baze/blob/main/cs-baze-nova-obavestenja.png'
+image2 = 'https://github.com/studentAutomations/cs-lp/blob/main/cs-lp-nova-obavestenja.png'
 
 embed.set_author(name='CS Baze')
 embed.add_field(name='Nova obaveštenja', value='https://cs.elfak.ni.ac.rs/nastava/')
