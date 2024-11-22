@@ -43,11 +43,11 @@ try:
     page_to_scrape.find_element(By.LINK_TEXT, "LP").click()
     time.sleep(5)
 
-    page_to_scrape.find_element(By.CLASS_NAME, "instancename").click()
+    page_to_scrape.find_element(By.LINK_TEXT, "Obaveštenja").click()
     time.sleep(5)
 
 
-    responseT = page_to_scrape.find_element(By.CLASS_NAME, "discussion-list")
+    responseT = page_to_scrape.find_element(By.CLASS_NAME, "region-main-content")
 
     # Get the size of the element
     height = responseT.size['height']
