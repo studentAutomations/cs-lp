@@ -10,7 +10,7 @@ embed = Embed(
     timestamp='now'
 )
 
-hook.send('@everyone Nova obavestenja na CS-u !')
+hook.send('@everyone Nova obavestenja na CS-u!')
 
 image1 = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOmPtpzziqcXbG795QYLmYvJl6G6CcyKbKHA&s'
 image2 = 'https://github.com/studentAutomations/cs-lp/blob/main/cs-lp-nova-obavestenja.png'
