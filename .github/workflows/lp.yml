@@ -1,4 +1,4 @@
-name: cs lp scraper
+name: cs baze scraper
 
 on: 
   schedule:
