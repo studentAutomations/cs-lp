@@ -1,5 +1,3 @@
-Obaveštenja
-Opšte novosti i najave
 List of discussions. Showing 82 of 82 discussions
 Status
 Discussion Started by Last post Replies
@@ -496,56 +494,3 @@ Dušan Gajić
 Dušan Gajić
 30 Nov 2015
 0
-Jump to...
-                    Jump to...
-                    PLAN I PROGRAM PREDAVANJA I VEŽBI 2024
-                    Literatura
-                    Primer blanketa za pismeni i usmeni deo ispita
-                    Prezentacije
-                    Prezentacije
-                    Računske vežbe PDF
-                    Instalacija za Intel ModelSim
-                    Upustvo za Intel ModelSim
-                    Raspored za laboratorijske vežbe 2023/2024
-                    Zadatak za lab vežbu 1 [Uvod u VHDL] - 28.10.2024.
-                    Zadatak za lab vežbu 2 [Opis kombinacionih mreža u VHDL-u] - 04.11.2024.
-                    Zadatak za lab vežbu 3 [Opis MSI kombinacionih mreža u VHDL-u] - 18.11.2023.
-                    Zadatak za lab vežbu 4 [Sekvencijalne mreže] - 02.12.2024.
-                    Zadatak za lab vežbu 5 [Memorije] - 16.12.2024.
-                    LP Rezultati ispita 10II.2024
-                    LP Rezultati ispita 10.2024
-                    LP Rezultati ispita 09.2024
-                    LP Rezultati ispita 06II.2024
-                    LP Rezultati ispita 06.2024
-                    LP Rezultati ispita 04.2024 (konačni)
-                    LP Rezultati ispita 04.2024
-                    LP Rezultati ispita 01.2024 (konačni)
-                    LP Rezultati ispita 01.2024
-                    LP Rezultati ispita 10II.2023
-                    LP Rezultati ispita 10.2023
-                    LP Rezultati ispita 09.2023
-                    LP Rezultati ispita 06II.2023
-                    LP Rezultati ispita 06.2023
-                    LP Rezultati ispita 04.2023
-                    LP Rezultati ispita 01.2023
-                    LP Rezultati ispita 10.2022
-                    LP Rezultati ispita 09.2022
-                    LP Rezultati ispita 06II.2022
-                    LP Rezultati ispita 06.2022
-                    LP Rezultati ispita 04.2022
-                    LP Rezultati ispita 01.2022
-                    Blanketi sa prethodnih ispita
-                    LP ispit 09.2019
-                    LP ispit 06.2019
-                    LP ispit 04.2019
-                    LP ispit 01.2019
-                    LP ispit 12.2018
-                    LP ispit 10 II.2018
-                    LP ispit 10.2018
-                    LP ispit 09.2018
-                    LP ispit 06.2018
-                    LP ispit 04.2018
-                    LP ispit 01.2018
-                    Spisak tema 2013
-                    Materijal
-         PLAN I PROGRAM PREDAVANJA I VEŽBI 2024 ►
