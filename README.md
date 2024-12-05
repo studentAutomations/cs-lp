@@ -1,1 +1,1 @@
-**Web scraper za Logičko Projektovanje**
+**Web scraper za Logičko projektovanje**
