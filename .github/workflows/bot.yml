@@ -1,4 +1,4 @@
-name: lp runner
+name: lp bot
 
 on:
   schedule:
